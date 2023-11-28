@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Antonio del Pardo </b><iframe src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i"></a></p></h1>
+<h1 align="center"><b>Hi , I'm Antonio del Pardo </b></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <iframe src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i"></a></p></a>
 </p>
 
 
