@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Antonio del Pardo </b></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <iframe src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i"></a></p></a>
+  <img src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i"></a></p></a>
 </p>
 
 
