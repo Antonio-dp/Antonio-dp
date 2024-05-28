@@ -19,7 +19,6 @@
 - A passionate Software Engineering Student
 - I love to play videogames
 - Currently learning Web Development
-- I’m currently open for an Intern 
 
 <br><br>
 
