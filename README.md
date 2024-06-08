@@ -31,7 +31,7 @@
 
 - **Languages**:
     
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
     ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>   
@@ -43,8 +43,8 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![PrimeFlex](https://img.shields.io/badge/PrimeFlex-007ad9?style=for-the-badge&logo=primeflex&logoColor=white)
-   ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-0C8FCF?style=for-the-badge&logo=primefaces&logoColor=white)
+   ![PrimeFlex](https://img.shields.io/badge/PrimeFlex-009688?style=for-the-badge&logo=PrimeFlex&logoColor=white)
+   ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-0C8FCF?style=for-the-badge&logo=PrimeFaces&logoColor=white)
 
 
 
