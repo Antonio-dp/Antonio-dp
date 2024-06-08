@@ -33,7 +33,6 @@
     
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
     ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -44,12 +43,18 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![PrimeFlex](https://img.shields.io/badge/PrimeFlex-007ad9?style=for-the-badge&logo=primeflex&logoColor=white)
+   ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-0C8FCF?style=for-the-badge&logo=primefaces&logoColor=white)
+
+
 
 <br>
 
 - **Back-End Development**: 
 
    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+	
    
 <br>
 
@@ -65,6 +70,9 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+    ![JetBrains Space](https://img.shields.io/badge/JetBrains%20Space-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>  
 </p>
