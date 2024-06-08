@@ -16,7 +16,7 @@
 
 <br>
 
-- A passionate Software Engineering Student
+- A passionate Software Engineering
 - I love to play videogames
 - Currently learning Web Development
 
