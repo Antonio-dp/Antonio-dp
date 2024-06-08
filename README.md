@@ -104,7 +104,7 @@
 <ul>
 
 <li>
-<a href="linkedin.com/in/antonio-del-pardo-espinoza-398938270" target="_blank">
+<a href="www.linkedin.com/in/antoniodp" target="_blank">
 <img src="https://img.shields.io/badge/linkedin  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -114,7 +114,7 @@
 <br>
 
 <li>
-<a href="mailto:tonydpe@gmail.com" target="_blank">
+<a href="mailto:antoniodelpardo.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  tonydpe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
